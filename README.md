@@ -8,7 +8,7 @@ Ces instructions permettent d'exécuter une copie du projet en local sur votre p
 
 ### Pré-requis
 
-Pour exécuter en local le projet Open Transport, vous devez avant installer :
+Pour exécuter en local le projet Open Transport, vous devez installer :
 
 
 
